@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Projects>
+    <Project activity="Paused" 
+             lastBuildLabel="13" 
+             lastBuildStatus="Success" 
+             lastBuildTime="2013-11-06T16:11:21.981+11:00" 
+             name="zz Audiological Software Projects :: Custom Sound (develop) :: CI build" 
+             webUrl="http://cltd-spf-teamcity.cochlear.com/viewType.html?buildTypeId=ZzAudiologicalSoftwareProjects_CustomSoundDxe5_CiBuild"/>
+    <Project activity="Paused" 
+             lastBuildLabel="3" 
+             lastBuildStatus="Success" 
+             lastBuildTime="2013-11-04T20:00:04.675+11:00" 
+             name="zz Audiological Software Projects :: Custom Sound (develop) :: Distribution build" 
+             webUrl="http://cltd-spf-teamcity.cochlear.com/viewType.html?buildTypeId=ZzAudiologicalSoftwareProjects_CustomSoundDxe5_DistributionBuild"/>
+    <Project activity="Sleeping" 
+             lastBuildLabel="50" 
+             lastBuildStatus="Success" 
+             lastBuildTime="2014-02-19T13:10:36.596+11:00" 
+             name="zz Audiological Software Projects :: Custom Sound (develop) :: System Integration build" 
+             webUrl="http://cltd-spf-teamcity.cochlear.com/viewType.html?buildTypeId=ZzAudiologicalSoftwareProjects_CustomSoundDxe5_SystemIntegrationBuild"/>
+    <Project activity="Paused" 
+             lastBuildLabel="12" 
+             lastBuildStatus="Success" 
+             lastBuildTime="2013-11-04T20:06:22.332+11:00" 
+             name="zz Audiological Software Projects :: Custom Sound (develop) :: SystemTesting build" 
+             webUrl="http://cltd-spf-teamcity.cochlear.com/viewType.html?buildTypeId=ZzAudiologicalSoftwareProjects_CustomSoundDxe5_SystemTestingBuild"/>
+    <Project activity="Sleeping" 
+             lastBuildLabel="v4.3.0.32" 
+             lastBuildStatus="Success" 
+             lastBuildTime="2013-12-20T16:28:35.404+11:00" 
+             name="Audiological Software Common Libraries :: Data Access Layer :: v4.3" 
+             webUrl="http://cltd-spf-teamcity.cochlear.com/viewType.html?buildTypeId=DataAccessLayer_V43"/>
+</Projects>
